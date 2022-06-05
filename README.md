@@ -37,7 +37,7 @@
 ### Persiapan | Membuat table user login
 
 - Membuat table user pada database lab_ci4
-  ![table user](https://user-images.githubusercontent.com/50513551/123499355-579c5600-d660-11eb-9871-442a67f936e1.png)
+  ![image](https://user-images.githubusercontent.com/20396585/172055910-cb850499-98bd-406e-b858-838efcabf43e.png)
 
 ### Membuat halaman login
 
