@@ -8,7 +8,7 @@
 
 ### Persiapan
 
-- Download kode file codeigniter 4 dari website resminya. Kemudian di extract pada folder /xampp/htdocs/lab11_ci.
+- Download kode file codeigniter 4 dari website resminya. Kemudian di extract pada folder /laragon/www/Lab11Web.
 - Kemudian aktifkan extension yang di butuhkan untuk menjalankan codeigniter 4 melalui php.ini
   ![2021-06-15_084032](https://user-images.githubusercontent.com/50513551/121985469-fc947480-cdbe-11eb-804f-602f572667e5.png)
 
@@ -27,13 +27,10 @@
 - Kemudian untuk mengisi halaman about bisa langsung melalui contoller.
   ![halaman about](https://user-images.githubusercontent.com/50513551/121985940-e3d88e80-cdbf-11eb-8af5-0bcbd8026c79.png)
 - Tampilan halaman about yang sudah di sesuaikan.
-  ![about1](https://user-images.githubusercontent.com/50513551/123500161-3474a500-d666-11eb-9c93-fd8a5d36d9d2.png)
+- ![image](https://user-images.githubusercontent.com/20396585/172055776-ea585efc-50ce-4911-a3a6-edbf0224d112.png)
 
 - Tampilan halaman kontak.
-  ![kontak](https://user-images.githubusercontent.com/50513551/123500146-1e66e480-d666-11eb-9612-3110f3fb9e35.png)
-
-- Tampilan halaman artikel.
-  ![artikel](https://user-images.githubusercontent.com/50513551/123500154-27f04c80-d666-11eb-8530-c4df0b5e4406.png)
+- ![image](https://user-images.githubusercontent.com/20396585/172055819-7fb94765-3f21-4412-aeef-a188fe2d163b.png)
 
 ## Praktikum 13 | Membuat Halaman Login
 
